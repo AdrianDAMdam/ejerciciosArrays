@@ -1,0 +1,13 @@
+C:\Users\adria\Desktop\DAM\aPROGRAMACION\TEMA 5\ejerciciosDeArrays\ej6\bin\Debug\netcoreapp3.1\ej6.exe
+C:\Users\adria\Desktop\DAM\aPROGRAMACION\TEMA 5\ejerciciosDeArrays\ej6\bin\Debug\netcoreapp3.1\ej6.deps.json
+C:\Users\adria\Desktop\DAM\aPROGRAMACION\TEMA 5\ejerciciosDeArrays\ej6\bin\Debug\netcoreapp3.1\ej6.runtimeconfig.json
+C:\Users\adria\Desktop\DAM\aPROGRAMACION\TEMA 5\ejerciciosDeArrays\ej6\bin\Debug\netcoreapp3.1\ej6.runtimeconfig.dev.json
+C:\Users\adria\Desktop\DAM\aPROGRAMACION\TEMA 5\ejerciciosDeArrays\ej6\bin\Debug\netcoreapp3.1\ej6.dll
+C:\Users\adria\Desktop\DAM\aPROGRAMACION\TEMA 5\ejerciciosDeArrays\ej6\bin\Debug\netcoreapp3.1\ej6.pdb
+C:\Users\adria\Desktop\DAM\aPROGRAMACION\TEMA 5\ejerciciosDeArrays\ej6\obj\Debug\netcoreapp3.1\ej6.csprojAssemblyReference.cache
+C:\Users\adria\Desktop\DAM\aPROGRAMACION\TEMA 5\ejerciciosDeArrays\ej6\obj\Debug\netcoreapp3.1\ej6.AssemblyInfoInputs.cache
+C:\Users\adria\Desktop\DAM\aPROGRAMACION\TEMA 5\ejerciciosDeArrays\ej6\obj\Debug\netcoreapp3.1\ej6.AssemblyInfo.cs
+C:\Users\adria\Desktop\DAM\aPROGRAMACION\TEMA 5\ejerciciosDeArrays\ej6\obj\Debug\netcoreapp3.1\ej6.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\DAM\aPROGRAMACION\TEMA 5\ejerciciosDeArrays\ej6\obj\Debug\netcoreapp3.1\ej6.dll
+C:\Users\adria\Desktop\DAM\aPROGRAMACION\TEMA 5\ejerciciosDeArrays\ej6\obj\Debug\netcoreapp3.1\ej6.pdb
+C:\Users\adria\Desktop\DAM\aPROGRAMACION\TEMA 5\ejerciciosDeArrays\ej6\obj\Debug\netcoreapp3.1\ej6.genruntimeconfig.cache
