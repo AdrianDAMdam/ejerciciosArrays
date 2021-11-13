@@ -89,18 +89,7 @@ namespace ej9
 
             }
 
-            switch (seleccion)
-            {
-
-                case 2:
-                    RecogeContraseña();
-                    break;
-                case 3:
-                    break;
-
-                default:
-                    break;
-            }
+           
 
 
 
